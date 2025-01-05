@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WindowBuilder",
+            "request": "launch",
+            "mainClass": "WindowBuilder",
+            "projectName": "Traqueur_527f1e1c"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
