@@ -11,5 +11,5 @@
     "[java]": {
         "editor.insertSpaces": false
     },
-    "javafx.libPath": "~/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/"
+    "javafx.libPath": "lib/javafx-sdk-23.0.1/"
 }

@@ -16,7 +16,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "hellofx.Main",
-            "vmArgs": "--module-path ~/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/ --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.web"
+            "vmArgs": "--module-path lib/javafx-sdk-23.0.1/ --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base"
         }
     ]
 }
