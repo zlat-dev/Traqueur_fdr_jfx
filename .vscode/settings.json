@@ -11,5 +11,6 @@
     "[java]": {
         "editor.insertSpaces": false
     },
-    "javafx.libPath": "lib/javafx-sdk-23.0.1/"
+    "javafx.libPath": "lib/javafx-sdk-23.0.1/",
+    "java.configuration.runtimes": []
 }
