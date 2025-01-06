@@ -4,19 +4,12 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/javafx-sdk-23.0.1/lib/javafx-swt.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.base.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.controls.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.fxml.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.graphics.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.media.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.swing.jar",
-        "lib/javafx-sdk-23.0.1/lib/javafx.web.jar"
+        "lib/javafx-sdk-23.0.1/*.jar"
     ],
     "jdk.runConfig.vmOptions": "",
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "[java]": {
         "editor.insertSpaces": false
     },
-    "javafx.libPath": "lib/javafx-sdk-23.0.1/lib/"
+    "javafx.libPath": "~/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/"
 }
