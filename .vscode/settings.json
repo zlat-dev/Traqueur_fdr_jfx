@@ -18,5 +18,5 @@
     "[java]": {
         "editor.insertSpaces": false
     },
-    "javafx.libPath": ""
+    "javafx.libPath": "lib/javafx-sdk-23.0.1/lib/"
 }
