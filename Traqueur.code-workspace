@@ -10,14 +10,14 @@
 		],
 		"java.project.outputPath": "bin",
 		"java.project.referencedLibraries": [
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.base.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.swing.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.media.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.fxml.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.controls.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.web.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx-swt.jar",
-			"/home/adsl/Dev/Java/Traqueur/lib/javafx-sdk-23.0.1/javafx.graphics.jar"
+			"lib/javafx-sdk-23.0.1/javafx.base.jar",
+			"lib/javafx-sdk-23.0.1/javafx.swing.jar",
+			"lib/javafx-sdk-23.0.1/javafx.media.jar",
+			"lib/javafx-sdk-23.0.1/javafx.fxml.jar",
+			"lib/javafx-sdk-23.0.1/javafx.controls.jar",
+			"lib/javafx-sdk-23.0.1/javafx.web.jar",
+			"lib/javafx-sdk-23.0.1/javafx-swt.jar",
+			"lib/javafx-sdk-23.0.1/javafx.graphics.jar"
 		],
 		"jdk.runConfig.vmOptions": "--module-path lib/javafx-sdk-23.0.1/ --add-modules javafx.controls,javafx.fxml,javafx.graphics",
 		"java.format.settings.url": ".vscode/java-formatter.xml",
