@@ -6,16 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "App",
+            "name": "App.Main",
             "request": "launch",
-            "mainClass": "App",
-            "projectName": "Traqueur_fdr_jfx_f160644e"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "hellofx.Main",
+            "mainClass": "App.Main",
+            "projectName": "Traqueur_fdr_jfx_f160644e",
             "vmArgs": "--module-path lib/javafx-sdk-23.0.2/lib/ --add-modules javafx.controls,javafx.fxml,javafx.graphics"
         }
     ]

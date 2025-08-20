@@ -1,4 +1,4 @@
-package hellofx;
+package App;
 
 // import javafx.application.Application;
 // import javafx.fxml.FXMLLoader;
@@ -19,8 +19,6 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        // Parent root = FXMLLoader.load(getClass().getResource("hellofx.fxml"));
-
         Pane pane = new Pane();
         pane.setPrefSize(864, 432);
         pane.setStyle("-fx-background-color: #1e1e1e;");
@@ -39,7 +37,7 @@ public class Main extends Application {
 
         Scene scene = new Scene(pane, 864, 432);
 
-        primaryStage.setTitle("Hello World");
+        primaryStage.setTitle("Traqueur_Fdr");
 
         primaryStage.setScene(scene);
         primaryStage.show();
