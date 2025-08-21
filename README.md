@@ -1,18 +1,22 @@
+Traqueur_fdr_jfx
+@zlatko
+20242008
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Application destinée à gérer la répartition des tâches entre agents et les représenter dans une feuille de route globale d'un organisme.
+But pédagogique personnel pour apprendre JFX à partir de son homologue python.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+L'espace de travail contient :
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
 ## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## Tasks
+
